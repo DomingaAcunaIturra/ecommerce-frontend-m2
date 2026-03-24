@@ -58,7 +58,7 @@ Este proyecto fue construido para demostrar:
 
 ## 7. Publicación en GitHub
 
-Enlace por el repositorio real:
+Enlace del repositorio real:
 
 `https://github.com/DomingaAcunaIturra/ecommerce-frontend-m2.git`
 
